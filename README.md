@@ -26,4 +26,4 @@ I work with the following technologies:
 
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarik_dev&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarik51401&show_icons=true&count_private=true&hide=prs&theme=radical)
