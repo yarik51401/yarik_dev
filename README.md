@@ -1,6 +1,6 @@
 # yarik_dev
 
-I am a developer proficient in many programming languages, and passionate about cybersecurity. I specialize in web development and cybersecurity.
+I am a beginner developer proficient in many programming languages, and passionate about cybersecurity. I specialize in web development and cybersecurity.
 
 ## 🛠 Technologies && Tools
 
